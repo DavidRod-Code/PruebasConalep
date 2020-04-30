@@ -1,0 +1,1 @@
+Este es un claro ejemplo de como funciona git con el versionamiento de software, al igual que los repositorios remotos.
